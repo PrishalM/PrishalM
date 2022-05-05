@@ -25,8 +25,10 @@ I am now looking forward to launching myself into a career in technology where I
 
 #### Find out more:
 
-<a href="https://prish.al"><i class="bi bi-file-person"></i> Prish.al</a>
-<a href="https://www.linkedin.com/in/prishalmakwana/"><i class="bi bi-linkedin"></i>PrishalMakwana</a>
-<a href="https://www.instagram.com/prish.al"><i class="bi bi-instagram"></i>Prish.al</a>
+<ul>
+<li>Portfolio: <a href="https://prish.al"><i class="bi bi-file-person"></i> Prish.al</a></li>
+<li>P<a href="https://www.linkedin.com/in/prishalmakwana/"><i class="bi bi-linkedin"></i>PrishalMakwana</a></li>
+<li>P<a href="https://www.instagram.com/prish.al"><i class="bi bi-instagram"></i>Prish.al</a></li>
+</ul>
 
 ![Prishal's GitHub stats](https://github-readme-stats.vercel.app/api?username=prishalm&show_icons=true&theme=dracula)
