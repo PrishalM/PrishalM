@@ -28,4 +28,4 @@ I am now looking forward to launching myself into a career in technology where I
 <li>Instagram:<a href="https://www.instagram.com/prish.al"><i class="bi bi-instagram"></i>Prish.al</a></li>
 </ul>
 
-![Prishal's GitHub stats](https://github-readme-stats.vercel.app/api?username=prishalm&show_icons=true&theme=dracula)
+![Prishal's GitHub stats](https://github-readme-stats.vercel.app/api?username=prishalm&show_icons=true&theme=vision-friendly-dark)
