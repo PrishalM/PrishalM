@@ -24,8 +24,8 @@ I am now looking forward to launching myself into a career in technology where I
 
 <ul>
 <li>Portfolio: <a href="https://prish.al"><i class="bi bi-file-person"></i> Prish.al</a></li>
-<li>LinkedIn:<a href="https://www.linkedin.com/in/prishalmakwana/"><i class="bi bi-linkedin"></i>PrishalMakwana</a></li>
-<li>Instagram:<a href="https://www.instagram.com/prish.al"><i class="bi bi-instagram"></i>Prish.al</a></li>
+<li>LinkedIn: <a href="https://www.linkedin.com/in/prishalmakwana/"><i class="bi bi-linkedin"></i>PrishalMakwana</a></li>
+<li>Instagram: <a href="https://www.instagram.com/prish.al"><i class="bi bi-instagram"></i>Prish.al</a></li>
 </ul>
 
 ![Prishal's GitHub stats](https://github-readme-stats.vercel.app/api?username=prishalm&show_icons=true&theme=vision-friendly-dark)
