@@ -8,17 +8,20 @@ I am now looking forward to launching myself into a career in technology where I
 
 <h2> Get To Know Me:</h2>
 
-- I am based in London, UK
-- Training at @getfutureproof.
+- I am based in London, UK. Training at @getfutureproof.
 - Outside of work, I am an avid learner of art, ancient & human history, geography, human migration and philosophy.
 - I also love to explore my creative side through different mediums such as acrylic, chalk, clay, photography and digital wire-framing.
 
 <h2> Technical skills:</h2>
 
+- HTHML/CSS/Bootstrap
 - Git/Github
 - Node.js/Express.js
 - Docker
 - PostgreSQL/MongoDB
+- React/Redux
+- bcrypt/JSONWebToken
+- 
 
 <h2> Find out more:</h2>
 
