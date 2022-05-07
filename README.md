@@ -21,7 +21,6 @@ I am now looking forward to launching myself into a career in technology where I
 - PostgreSQL/MongoDB
 - React/Redux
 - bcrypt/JSONWebToken
-- 
 
 <h2> Find out more:</h2>
 
