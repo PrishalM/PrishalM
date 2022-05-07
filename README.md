@@ -8,8 +8,8 @@ I am now looking forward to launching myself into a career in technology where I
 
 <h2> Get To Know Me:</h2>
 
-- I'm a Junior Full Stack Developer. Training at @getfutureproof.
 - I am based in London, UK
+- Training at @getfutureproof.
 - Outside of work, I am an avid learner of art, ancient & human history, geography, human migration and philosophy.
 - I also love to explore my creative side through different mediums such as acrylic, chalk, clay, photography and digital wire-framing.
 
@@ -28,4 +28,4 @@ I am now looking forward to launching myself into a career in technology where I
 <li>Instagram: <a href="https://www.instagram.com/prish.al"><i class="bi bi-instagram"></i>Prish.al</a></li>
 </ul>
 
-![Prishal's GitHub stats](https://github-readme-stats.vercel.app/api?username=prishalm&show_icons=true&theme=vision-friendly-dark)
+![Prishal's GitHub stats](https://github-readme-stats.vercel.app/api?username=prishalm&show_icons=true&theme=dark)
