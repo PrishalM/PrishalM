@@ -14,6 +14,10 @@ I am now looking forward to launching myself into a career in technology where I
 
 <h2> Technical skills:</h2>
 
+
+<a href="https://github.com/" title="GitHub"><img src="https://prish.al/images/github-tech-skills/github.png" alt="GitHub" width="75px"></a>
+
+
 - HTHML/CSS/Bootstrap
 - Git/Github
 - Node.js/Express.js
