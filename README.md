@@ -1,6 +1,6 @@
 [![Prishal Header](https://prish.al/images/Headers/PrishalMakwanaHeader_3.png "Header")](https://prish.al/)
 
-<h1 align="center">Hey there👋🏽, I'm Prishal (They/he)</h1>
+<h1 align="center">Hey there 👋🏼, I'm Prishal (They/he)</h1>
 
 I am a computer science returner with a strong user-centric mindset from a broad background in marketing. Most recently I have experience in UX research & design and am currently closing the gap in my technology knowledge.
 
