@@ -32,4 +32,4 @@ I am looking to launch myself into a career in technology where I can utilise my
 
 
 <h2> My GitHub Statistics:</h2>
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=prishalm&show_icons=true&theme=dark&hide_border=true" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=prishalm&show_icons=true&theme=github_dark&hide_border=true" /></div>
