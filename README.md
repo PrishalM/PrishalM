@@ -21,11 +21,15 @@ I am looking to launch myself into a career in technology where I can utilise my
 
 <h2> Find out more:</h2>
 
-<ul>
-<li>Portfolio: <a href="https://prish.al"><i class="bi bi-file-person"></i> Prish.al</a></li>
-<li>LinkedIn: <a href="https://www.linkedin.com/in/prishalmakwana/"><i class="bi bi-linkedin"></i>PrishalMakwana</a></li>
-<li>Instagram: <a href="https://www.instagram.com/prish.al"><i class="bi bi-instagram"></i>Prish.al</a></li>
-</ul>
+<div align="center"> 
+  <p>Check out my Portfolio, LinkedIn, and Instagram.</p>
+  <div style="display: flex;">
+   <a href="https://prish.al" title="Prish.al"><img src="https://prish.al/images/github-button/portfolio.png" alt="Portfolio" width="150px"/></a>
+   <a href="https://www.linkedin.com/in/prishalmakwana/" title="Prishal"><img src="https://prish.al/images/github-button/linkedin.png" alt="Linkedin" width="150px"/></a>
+   <a href="https://www.instagram.com/prish.al" title="Prish.al"><img src="https://prish.al/images/github-button/instagram.png" alt="Instagram" width="150px"/></a>
+  </div>
+</div>
+
 
 <h2> My GitHub Statistics:</h2>
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=prishalm&show_icons=true&theme=dark&hide_border=true" /></div>
