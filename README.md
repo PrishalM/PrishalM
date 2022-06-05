@@ -31,5 +31,7 @@ I am looking to launch myself into a career in technology where I can utilise my
 </div>
 
 
-<h2> My GitHub Statistics:</h2>
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=prishalm&show_icons=true&theme=github_dark&hide_border=true" /></div>
+<h2> My GitHub Statistics so far:</h2>
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=prishalm&show_icons=true&hide_border=true&include_all_commits=true&bg_color=fff0e5&text_color=423f2b&icon_color=555137&title_color=423f2b" /></div>
+
