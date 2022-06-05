@@ -2,7 +2,7 @@
 
 <h1 align="center">Hey there 👋🏼, I'm Prishal (They/he)</h1>
 
-I am a computer science returner with a strong user-centric mindset from a broad background in marketing. Most recently, I have experience in UX research & design and am currently closing the gap in my technology knowledge.
+I am a computer science returner with a strong <strong>user-centric mindset</strong> from a broad background in marketing. Most recently, I have experience in UX research & design and am currently closing the gap in my technology knowledge.
 
 I am looking to launch myself into a career in technology where I can utilise my natural problem-solving way of thinking to thrive and continuously learn and develop.
 
@@ -10,7 +10,7 @@ I am looking to launch myself into a career in technology where I can utilise my
 
 - 🇬🇧 I am based in London, UK.
 - 👨🏽‍💻 Training as a Full Stack Development Trainee at futureproof.
-- 📱 With my passion and experience for UX/UI, I would thrive in a Front-end Development role where I can ensure my user-centric mindset is persistent in all my work. 
+- 📱 With my passion and experience for UX/UI, I would thrive in a <strong>Front-end Development</strong> role where I can ensure my user-centric mindset is persistent in all my work. 
 - 🗺 Outside of work, I am an avid learner of art, ancient & human history, geography, human migration and philosophy.
 - 🧑🏽‍🎨 I also love to explore my creative side through different mediums such as acrylic, chalk, clay, photography and digital wire-framing.
 
