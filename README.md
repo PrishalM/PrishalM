@@ -1,4 +1,4 @@
-[![Prishal Header](https://prish.al/images/external_headers/Prishal_Makwana_GitHub_Header.ong "Header")](https://prish.al/)
+[![Prishal Header](https://prish.al/images/external_headers/Prishal_Makwana_GitHub_Header.jpg "Header")](https://prish.al/)
 
 <h1 align="center">Hey there 👋🏼, I'm Prishal (They/he)</h1>
 
@@ -23,9 +23,9 @@ I am looking to launch myself into a career in technology where I can utilise my
 <div align="center"> 
   <p>Check out my Portfolio, LinkedIn, and Instagram.</p>
   <div style="display: flex;">
-   <a href="https://prish.al" title="Prish.al"><img src="https://prish.al/images/github-button/portfolio.jpg" alt="Portfolio" width="150px"/></a>
-   <a href="https://www.linkedin.com/in/prishal" title="Prishal"><img src="https://prish.al/images/github-button/linkedin.jpg" alt="Linkedin" width="150px"/></a>
-   <a href="https://www.instagram.com/prish.al" title="Prish.al"><img src="https://prish.al/images/github-button/instagram.jpg" alt="Instagram" width="150px"/></a>
+   <a href="https://prish.al" title="Prish.al"><img src="https://prish.al/images/github-button/portfolio.png" alt="Portfolio" width="150px"/></a>
+   <a href="https://www.linkedin.com/in/prishal" title="Prishal"><img src="https://prish.al/images/github-button/linkedin.png" alt="Linkedin" width="150px"/></a>
+   <a href="https://www.instagram.com/prish.al" title="Prish.al"><img src="https://prish.al/images/github-button/instagram.png" alt="Instagram" width="150px"/></a>
   </div>
 </div>
 
