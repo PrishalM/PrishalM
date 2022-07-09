@@ -23,9 +23,9 @@ I am looking to launch myself into a career in technology where I can utilise my
 <div align="center"> 
   <p>Check out my Portfolio, LinkedIn, and Instagram.</p>
   <div style="display: flex;">
-   <a href="https://prish.al" title="Prish.al"><img src="https://prish.al/images/github-button/portfolio.png" alt="Portfolio" width="150px"/></a>
-   <a href="https://www.linkedin.com/in/prishal" title="Prishal"><img src="https://prish.al/images/github-button/linkedin.png" alt="Linkedin" width="150px"/></a>
-   <a href="https://www.instagram.com/prish.al" title="Prish.al"><img src="https://prish.al/images/github-button/instagram.png" alt="Instagram" width="150px"/></a>
+   <a href="https://prish.al" title="Prish.al"><img src="https://prish.al/images/github_button/portfolio.png" alt="Portfolio" width="150px"/></a>
+   <a href="https://www.linkedin.com/in/prishal" title="Prishal"><img src="https://prish.al/images/github_button/linkedin.png" alt="Linkedin" width="150px"/></a>
+   <a href="https://www.instagram.com/prish.al" title="Prish.al"><img src="https://prish.al/images/github_button/instagram.png" alt="Instagram" width="150px"/></a>
   </div>
 </div>
 
