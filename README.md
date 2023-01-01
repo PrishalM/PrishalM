@@ -1,4 +1,4 @@
-[![Prishal Header](https://prish.al/images/external_headers/Prishal_Makwana_GitHub_Header_1.jpg "Header")](https://prish.al/)
+[![Prishal Header](https://prish.al/images/external_headers/Prishal_Makwana_GitHub_Header.jpg "Header")](https://prish.al/)
 
 <h1 align="center">Hey there 👋🏼, I'm Prishal (They/he)</h1>
 
