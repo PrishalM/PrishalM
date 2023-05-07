@@ -2,12 +2,12 @@
 
 <h1 align="center">Hey there 👋🏼, I'm Prishal (They/he)</h1>
 
-Front-end developer with a <strong>solid user-centric mindset</strong> from a broad background in web development, marketing and UX/UI research & design. Currently, utilising my natural problem-solving way of thinking at Dr. Martens.
+Front-end developer with a <strong>solid user-centric mindset</strong> from a broad background in web development, marketing and UX/UI research & design. Currently, utilising my natural problem-solving way of thinking at Nuffield Health.
 
 <h2> Get To Know Me:</h2>
 
 - 🇬🇧 I am based in London, UK.
-- 👨🏽‍💻 Work as a Junior Front-end Engineer at Dr. Martens. 
+- 👨🏽‍💻 Work as a Front-end Developer at Nuffield Health. 
 - 📱 I am passionate about accessibility, intuitive design and great user experience. 
 - 🗺 Outside of work, I am an avid learner of art, ancient & human history, geography, human migration and philosophy.
 - 🧑🏽‍🎨 I also love to explore my creative side through different mediums such as acrylic, chalk, clay, photography and digital wire-framing.
