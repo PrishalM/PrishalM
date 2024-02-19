@@ -2,12 +2,13 @@
 
 <h1 align="center">Hey there 👋🏼, I'm Prishal (They/he)</h1>
 
-Front-end developer with a <strong>solid user-centric mindset</strong> from a broad background in web development, marketing and UX/UI research & design. Currently, utilising my natural problem-solving way of thinking at Nuffield Health.
+Front-end developer with a <strong>solid user-centric mindset</strong> from a broad background in web development(4 yrs), marketing(3 yrs) and UX/UI research & design (1 yr). Currently, utilising my natural problem-solving way of thinking at Nuffield Health, where I am continuously learning and developing. Available as a Front-end Developer and UX/UI Consultant on a freelance basis - get in touch! 
 
 <h2> Get To Know Me:</h2>
 
 - 🇬🇧 I am based in London, UK.
-- 👨🏽‍💻 Work as a Front-end Developer at Nuffield Health. 
+- 👨🏽‍💻 Work as a Front-end Developer at Nuffield Health.
+- 💻🛠️ Freelance Front-end Developer and UX/UI Consultant at Prish.al Limited.
 - 📱 I am passionate about accessibility, intuitive design and great user experience. 
 - 🗺 Outside of work, I am an avid learner of art, ancient & human history, geography, human migration and philosophy.
 - 🧑🏽‍🎨 I also love to explore my creative side through different mediums such as acrylic, chalk, clay, photography and digital wire-framing.
@@ -19,11 +20,10 @@ Front-end developer with a <strong>solid user-centric mindset</strong> from a br
 <h2> Find out more:</h2>
 
 <div align="center"> 
-  <p>Check out my Portfolio, LinkedIn, and Instagram.</p>
+  <p>Check out my Portfolio and LinkedIn.</p>
   <div style="display: flex;">
    <a href="https://prish.al" title="Prish.al"><img src="https://prish.al/github/portfolio_btn.png" alt="Portfolio" width="150px"/></a>
    <a href="https://www.linkedin.com/in/prishal" title="Prishal"><img src="https://prish.al/github/linkedin_btn.png" alt="Linkedin" width="150px"/></a>
-   <a href="https://www.instagram.com/prish.al" title="Prish.al"><img src="https://prish.al/github/instagram_btn.png" alt="Instagram" width="150px"/></a>
   </div>
 </div>
 
