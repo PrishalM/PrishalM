@@ -2,13 +2,13 @@
 
 <h1 align="center">Hey there 👋🏼, I'm Prishal (They/he)</h1>
 
-Front-end developer with a <strong>solid user-centric mindset</strong> from a broad background in web development(4+ yrs), marketing(3+ yrs) and UX/UI research & design (1+ yr). Currently, utilising my natural problem-solving way of thinking at Nuffield Health, where I am continuously learning and developing. Available as a Front-end Developer and UX/UI Consultant on a freelance basis - get in touch! 
+Front-end Developer with over 4 years of experience in web development, more than 6 years in marketing, and 2+ years in UX/UI research & design. Currently, utilising my natural problem-solving way of thinking at Nuffield Health, where I am continuously learning and developing. Available freelance as a UX/UI Designer, Front-end Development and Marketing Consultant – let’s connect!
 
 <h2> Get To Know Me:</h2>
 
 - 🇬🇧 I am based in London, UK.
 - 👨🏽‍💻 Work as a Front-end Developer at Nuffield Health.
-- 💻🛠️ Freelance Front-end Developer and UX/UI Consultant at Prish.al Limited.
+- 💻🛠️ Freelance UX/UI Designer, Front-end Developer & Marketing Consultant at Prish.al Limited.
 - 📱 I am passionate about accessibility, intuitive design and great user experience. 
 - 🗺 Outside of work, I am an avid learner of art, ancient & human history, geography, human migration and philosophy.
 - 🧑🏽‍🎨 I also love to explore my creative side through different mediums such as acrylic, chalk, clay, photography and digital wire-framing.
